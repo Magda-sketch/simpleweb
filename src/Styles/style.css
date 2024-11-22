@@ -1,5 +1,9 @@
 body{
- 
+ background-image:url(img/Mo.jpg) ;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
     margin:0;
     
 
@@ -37,6 +41,16 @@ header{
     justify-content:space-between;
   
 }
+/*image position homepage*/
+.image{
+   position: absolute;
+   top: 10%;
+   left:10%;
+  
+}
+
+    
+
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
