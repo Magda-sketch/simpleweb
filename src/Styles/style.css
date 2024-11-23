@@ -19,11 +19,14 @@ h1{
     font-size: 100px;
     color:white;
     text-align: center;
+    font-family: fantasy;
 }
+
+
 
 /*header*/
 header{
-    background-color: darkolivegreen;
+    background-color: rgb(80, 111, 26);
 }
      
 .navbar ul{
