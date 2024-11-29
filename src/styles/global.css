@@ -1,30 +1,11 @@
 body{
- padding:10px;
-    font-family: 'Courier New', Courier, monospace;
+    padding:0;
+    margin:0;
+
+    font-family:'Poppins', sans-serif;
     
 }
-
-.container{
-    width: 800px;
-    display: flex;
-  flex-direction:column-reverse;
-   flex-flow:column wrap;
-    
-} 
-
-
-.one{
-    flex: 1;
-    
+.singer{
+    width: 100%;
+    min-height: 100vh;
 }
-.two{
-    
-   flex:2;
-   justify-content: center;
-
-}
-.three{
-    flex:1;
-}
-   
-  
