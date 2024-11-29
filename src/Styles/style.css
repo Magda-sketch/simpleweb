@@ -9,7 +9,7 @@ body{
     top: 0;
     left:0;
     width:100%;
-    min-height:95vh;
+    min-height:100vh;
     background-image: url("../img/AgnesMo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,3 +58,9 @@ header{
 .navbar li{
     float:right;
 }
+
+/*maim*/
+.main h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
