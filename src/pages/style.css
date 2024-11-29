@@ -14,15 +14,8 @@ body{
       background-repeat: no-repeat;
       background-size: cover;
       z-index: -1;
-  }
-  h1{
-      font-size: 100px;
-      color:white;
-      text-align: center;
-      font-family: fantasy;
-  }
   
-  
+  }
   
   /*header*/
   header{
@@ -57,6 +50,9 @@ body{
   }
   .navbar li{
       float:right;
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
   }
   
  
